@@ -72,7 +72,7 @@ The dataset, [`data/StudentPerformanceFactors.csv`](data/StudentPerformanceFacto
 
 ## Screenshots and Examples
 
-![Exam Result](../images/exam_result.jpeg) ![Lower Exam Grade](../images/examB.png)
+![Exam Result](/images/exam_result.jpeg) ![Lower Exam Grade](/images/examB.png)
 
 **Sample Analysis Output:**
 
